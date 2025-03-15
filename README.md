@@ -1,1 +1,1 @@
-# simple-react-app
+# simple-nextjs-app
